@@ -1,0 +1,23 @@
+.formVendedor{
+margin: 20px 0;
+background-color: white;
+padding: 30px 20px;
+border-radius: 5px;
+}
+
+.buttonVend{
+display: block;
+height: 60px;
+min-width: 100%;
+border: none;
+background-color: #4b4b4b;
+color: white;
+border-radius: 25px;
+margin: auto;
+margin-top: 10px;
+padding: 7px;
+}
+
+.dale{
+	margin-top: -70px;
+}

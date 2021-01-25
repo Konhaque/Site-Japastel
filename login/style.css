@@ -1,0 +1,76 @@
+section {
+padding-top: 30px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+form {
+margin: 20px 0;
+background-color: white;
+padding: 90px 120px;
+border-radius: 5px;
+}
+
+form .input-block {
+margin-bottom: 20px;
+position: relative;
+}
+
+form .input-block label { 
+margin-left: -40px;
+font-size: 14px;
+color: #636e72;
+}
+
+form .input-block input {
+margin-left: -40px;
+appearance: none;
+width: 150%;
+display: flex;
+padding: 0px;
+border: none;
+border-bottom: 2px solid #636e72;
+background-color: transparent;
+outline: none;
+color: #636e72;
+}
+
+form .input-block input:focus {	
+margin-left: -40px;
+appearance: none;
+width: 150%;
+display: flex;
+padding: 0px;
+border: none;
+border-bottom: 2px solid #636e72;
+background-color: transparent;
+outline: none;
+color: #636e72;
+}
+
+.btn-style {
+display: block;
+min-width: 120px;
+border: none;
+background-color: #4b4b4b;
+color: white;
+border-radius: 25px;
+margin: auto;
+margin-top: -80px;
+padding: 7px;
+}
+
+
+.effect-gradient {
+background: linear-gradient(90deg, #EA2027, #EE5A24, #F79F1F, #FFC312, #ED4C67);
+background-size: 300%, 300%;
+animation: colors 10s ease infinite;
+}
+
+.imagem{
+	margin-left: 20px;
+	margin-bottom: 35px;
+	margin-top: -40px;
+}
